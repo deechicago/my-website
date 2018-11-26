@@ -1,0 +1,2 @@
+Shows a pie chart of issues for a project/filter grouped by a specified field. 
+This helps you see the breakdown of a set of issues, at a glance.
